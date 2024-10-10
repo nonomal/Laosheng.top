@@ -1,6 +1,6 @@
 环球金融交易所 💱 <sub>Global Financial Exchange</sub>
 =================
-大萌　202307，202404~06
+大萌　202307，202404~10
 <base target="_blank">
 <link rel="canonical" href="https://Laosheng.top/ydyl/jiaoyisuo" />
 
@@ -25,10 +25,11 @@
 *	[G-SIBs](#bank){:target="_top"} 🔼 重要性银行
 	* 中国境内[外资银行](#bank2){:target="_top"} 💳
 	* 美国[金融有关部门](#usa){:target="_top"} 🏛️
-*	[参考文献](#can){:target="_top"} 
-
+*	[参考文献](#can){:target="_top"}
+	* 《资本论》III
 
 <div align="right" id="forex">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 全球主要外汇市场 💱
 ---------------
@@ -80,7 +81,8 @@ Gold Market
 　　比如，某日伦敦金报价：2300美元/盎司，则约等于 81美元/克，按美元兑人民币7比1计，则约等于：567元/克。  
 　　假设美元兑人民币不变，可简化为 伦敦金每盎司美元报价 ÷ 4 ≈ 人民币每克金价。（28.35/7=4.05）
 
-　　国内可以看到国际黄金价格的商业网站有：
+看国际黄金价格的国内商业网站有：
+
 *	[新浪黄金](https://wap.cj.sina.cn/metal.html)手机版、[桌面版](https://finance.sina.com.cn/nmetal/)内容繁多
 *	东方财富[黄金资讯](https://wap.eastmoney.com/channel/list.html?channel=11)手机版、[桌面版](https://gold.eastmoney.com/)
 *	金投网 cngold.org 提供国内各银行的[纸黄金白银价格](https://quote.cngold.org/gjs/yhzhj.html)
@@ -95,65 +97,73 @@ Stock Exchange Top25 2021
 
 　　按2021年市值排行。受疫情影响，2021年全球交易所总市值回到2017年水平。上交所超越日本，跻身第三。
 
-*	美国 [纽约证券交易所](https://www.nyse.com) NYSE
-*	美国 [纳斯达克](https://www.nasdaq.com)（纽约）Nasdaq
-*	中国 [上海证券交易所](http://www.sse.com.cn)📍 SSE
-*	欧盟 [泛欧交易所](https://www.euronext.com/zh/)🍴 EuroNext
-*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍 JPX
-*	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)📍 HKEX
-*	中国 [深圳证券交易所](https://www.szse.cn/)📍 SZSE
-*	英国 [伦敦证券交易所](https://www.londonstockexchange.com) LondonStockExchange
-*	#[印度国家证券交易所](http://www.nse-india.com) NSE
-*	加拿大 [多伦多证券交易所](https://www.tsx.com) TSX
+*	美国 [纽约证券交易所](https://www.nyse.com)🍴 NYSE	　道琼斯指数
+*	美国 [纳斯达克](https://www.nasdaq.com)🍴（纽约）Nasdaq	　纳指
+*	中国 [上海证券交易所](http://www.sse.com.cn)📍 SSE	　上证指数
+*	欧盟 [泛欧交易所](https://www.euroNext.com/zh/)🍴 EuroNext
+*	日本 [日本交易所集团](https://www.jpx.co.jp/chinese)📍 JPX	　日经225
+*	中国 [香港交易所](https://www.hkex.com.hk/?sc_lang=zh-HK)📍 HKEX	　恒生指数
+*	中国 [深圳证券交易所](https://www.szse.cn/)📍 SZSE	　深证成指
+*	英国 [伦敦证券交易所](https://www.LondonStockExchange.com)🍴 LSE	　富时100
+*	#[印度国家证券交易所](http://www.nse-india.com)🍴 NSE
+*	加拿大 [多伦多证券交易所](https://www.tsx.com)🍴 TSX
 
-　印度 [孟买证券交易所](https://www.bseindia.com/)网页故障？、
+　　印度 [孟买证券交易所](https://www.bseindia.com/)🍴、
 　德国 [德意志交易所](https://deutsche-boerse.com/dbg-en/)🍴
-	/ 法兰克福证券交易所、  
+	/ 法兰克福证券交易所、
 　[瑞士证券交易所](https://www.six-group.com/en)🍴、
 　[韩国交易所](http://global.krx.co.kr/cn/)📍 KRX、
-　欧洲联盟 [纳斯达克OMX北欧交易所](https://www.nasdaqomxnordic.com/)、  
-　澳大利亚 [澳洲证券交易所](https://www2.asx.com.au) ASX、
+　欧盟纳斯达克[OMX北欧交易所](https://www.nasdaqomxnordic.com/)🍴、
+　澳大利亚 [澳洲证券交易所](https://www2.asx.com.au)🍴 ASX、
 　[台湾证券交易所](https://www.twse.com.tw/zh/)📍 TWSE、
-　[巴西证券交易所](https://www.b3.com.br/en_us/)🍴、  
-　[南非证券交易所](https://www.jse.co.za)、
+　[巴西证券交易所](https://www.b3.com.br/en_us/)🍴、
+　[南非证券交易所](https://www.jse.co.za)🍴、
 　[西班牙证券市场公司](https://www.bolsasymercados.es/ing/Home)🍴、
 　[新加坡交易所](https://www.sgx.com/zh-hans/)📍 SGX
-	/ 2016年收购 波罗的海交易所、  
+	/ 2016年收购 波罗的海交易所、
 　俄罗斯 [莫斯科证券交易所](https://www.moex.com/en/)、
-　[泰国证券交易所](https://classic.set.or.th/)🍴、
+　[泰国证券交易所](https://www.set.or.th/en/home)🍴、
 　印度尼西亚 [印尼证券交易所](https://www.idx.co.id/en)🍴、
 　[马来西亚证券交易所](https://www.BursaMalaysia.com/cn/)📍
 
 更多交易所可参考：[世界交易所联合会](https://www.world-exchanges.org) WFE
 [成员名单](https://www.world-exchanges.org/membership-events)：
 
-　　[瑞士证券交易所](https://www.six-group.com/en/)🍴、[哈萨克斯坦证券交易所](https://kase.kz/en/)🍴、越南[胡志明市证券交易所](https://www.hsx.vn/)、[尼日利亚交易所集团](https://ngxgroup.com/)🍴、[菲律宾证券交易所](https://www.pse.com.ph/)……　
+　　[瑞士证券](https://www.six-group.com/en/)交易所🍴、　[哈萨克斯坦证券](https://kase.kz/en/)交易所🍴、
+　越南[胡志明市证券](https://www.hsx.vn/)交易所🍴、　[尼日利亚交易所](https://ngxgroup.com/)集团🍴、
+　[菲律宾证券](https://www.pse.com.ph/)交易所🍴……　
 
+看全球证券行情的商业网站有：
+
+*	Sina新浪[行情中心](https://gu.sina.cn/#/world)手机版、[桌面版](https://vip.stock.finance.sina.com.cn/mkt/)，
+	[环球股市](https://finance.sina.com.cn/money/globalindex/)
+*	[东方财富](https://wap.eastmoney.com/quote/global.html)行情中心手机版、[桌面版](https://quote.eastmoney.com/center/qqzs.html)
+*	investing 英为财情[全球股指](https://cn.investing.com/indices/major-indices)；
+	#[TradingView](https://cn.TradingView.com/markets/)
 
 <div align="right" id="ex2">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
 
 <h3 >港澳台金融交易所 📍</h3>
 Financial Exchange
 
-* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】　香港联交所/香港交易所/香港市场  
-  　香港交易及结算所有限公司（HKEX）　2000年合并‘联交所’与‘期交所’。  
+* 【[港交所](https://www.hkex.com.hk/?sc_lang=zh-HK)】香港联交所/交易所/香港市场，
+　香港交易及结算所有限公司（HKEX），2000年合并‘联交所’与‘期交所’。
   * 所有港股上市公司[证券名单](https://www.hkex.com.hk/Products/Securities/Equities?sc_lang=zh-HK)下载，简称命名守则、证券代号区间分配。
   * 查询所有[股票（股本证券）](https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities?sc_lang=zh-HK)市值信息与股价走势。
-  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息披露。
+  * [披露易](https://sc.hkexnews.hk/TuniS/www.hkexnews.hk/index_c.htm)网站，上市公司文件与监管信息。
   * 恒生银行1964年创立了反映香港股票市场表现的[恒生指数](https://www.hsi.com.hk)
   * 【[伦敦金属交易所](https://www.lme.com/cn)】(英国 LME)，2012年被港交所收购。
   * 〖[前海联合交易中心](https://www.qme.com)〗大宗商品交易平台
   * [沪港通 与 深港通](https://sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect?sc_lang=zh-CN)
 * [香港金银业贸易场](http://www.cgse.com.hk/)　与伦敦/苏黎世/纽约并列世界四大金市
 * 澳门于2018年设立债券发行与交易平台：中华(澳门)[金融资产交易](https://cmox.mo)股份有限公司（MOX），编制中债指数。
-
-* 【[台交所](https://www.twse.com.tw/zh/)】　台证所/证交所
-  　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
+* 【[台交所](https://www.twse.com.tw/zh/)】台证所/证交所，
+　台湾证券交易所，编制[台湾加权指数](www.taiwanindex.com.tw/index/index/t00)
 * [台湾期货交易所](https://www.taifex.com.tw/cht/index)
 * [柜买中心](https://www.tpex.org.tw/)　台北交易所/财团法人中华民国证券柜台买卖中心（OTC）
 
-
 <div align="right" id="bank">Laosheng.<a href="#mulu" target="_top">Top</a>↑</div>
+
 
 全球系统重要性银行 🔼
 -----------------
@@ -177,10 +187,10 @@ Systemically Important Banks (G-SIBs)
 	Bank of China 中国银行📍、  
 　	英国 [Barclays](https://www.home.barclays/)巴克莱银行、
 	法国 [BNP Paribas](http://www.bnpParibas.com/)巴黎银行
-	/[中国](https://www.bnpparibas.com.cn/)📍、  
-　	China Construction Bank 建设银行📍、
-	[Deutsche Bank](https://www.db.com/) 德意志银行、  
-　	美国 [Goldman Sachs](https://www.goldmansachs.com/)高盛
+	/[中国](https://www.bnpparibas.com.cn/)📍、
+	China Construction Bank 建设银行📍、  
+　	[Deutsche Bank](https://www.db.com/) 德意志银行、
+	美国 [Goldman Sachs](https://www.goldmansachs.com/)高盛
 	/[大中华区](https://www.goldmansachs.com/worldwide/greater-china/)📍、
 	Industrial and Commercial Bank of China 工商银行📍、  
 　	日本 [Mitsubishi UFJ FG](https://www.mufg.jp/)三菱UFJ金融集团、
@@ -282,7 +292,7 @@ USA Gov financial authorities
 	运输部、能源部、教育部、退伍军人事务部、国土安全部。
 	* 独立行政机构（CIA/**美联储**/国家航天局……）
 
-国务部 [State](https://www.state.gov/)，现任国务卿：布林肯。
+**国务部** [State](https://www.state.gov/)（类似外交部），现任国务卿：布林肯。
 
 **财政部** [Treasury](https://home.treasury.gov/)，现任部长：耶伦♀。公布国债收益率。
 
@@ -306,7 +316,18 @@ USA Gov financial authorities
 *	FSB：2023 List of [Global Systemically Important Banks](https://www.fsb.org/2023/11/2023-list-of-global-systemically-important-banks-g-sibs/) (G-SIBs)
 *	新浪金融研究院：[我国认定20家国内系统重要性银行](https://finance.sina.com.cn/jinrong/yh/2023-11-28/doc-imzwepzs7168282.shtml)
 
-　　（此页尚在施工中……）
+<h3 id="zibenlun3">《资本论》第三卷</h3>
+《Das_Kapital》III，1894。题为：[资本主义生产的总过程](https://www.marxists.org/chinese/marx/capital/marxist.org-chinese-marx-capital-vol3-01.htm)。  
+分以下7篇：
+
+* 1 剩余价值转化为利润和剩余价值率转化为利润率
+* 2 利润转化为平均利润
+* 3 利润率趋向下降的规律
+* 4 商品资本和货币资本转化为商品经营资本和货币经营资本
+* 5 利润分为利息和企业主收入。生息资本
+* 6 超额利润转化为地租
+* 7 各种收入及其源泉
+
 
 　　网站建设中，欢迎<a title="Contact me" href="https://laosheng.top/c/author">提出建议</a>，发现网址错误，请<a title="无需注册，直接留言" href="https://xoyondo.com/ap/HPr7pBG7mOPIUGZ">告知大萌</a>。🙇
 
@@ -314,7 +335,7 @@ USA Gov financial authorities
 	老生常谈 © 2019-2024 大萌  知识共享
 	CC BY-NC-ND 3.0	可转载-非演绎-非营利
 	https://laosheng.top/ydyl/jiaoyisuo
-	环球金融交易所	v0.4.7 	202406
+	环球金融交易所	v0.4.9 	202410
 ```
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
